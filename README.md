@@ -3,6 +3,7 @@
 Обновлённая сборка AkelPad от San_dr<br/>
 Плагин Total Commander внутреннего просмотра [TC AkelPad Plugin](https://wincmd.ru/plugring/TCAkelPad.html)<br/>
 Текстовый редактор AkelPad.exe v4.9.9 r4449 x86 [Valery Kurenkov](https://www.dropbox.com/scl/fo/dm0dm3s1pcabygl1bboqa/h?rlkey=ps9l702knqn145uaf3vz6sqtj&dl=0)<br/>
+Special for [Total Commander Titan](https://rutracker.org/forum/viewtopic.php?t=5324469) - Portable by pcDenPro<br/>
 
 Lister:
 
